@@ -1,6 +1,6 @@
 # Movies Project
 
-Welcome to the Movies Project, a comprehensive solution for browsing, managing, and tracking movies and TV shows. This project consists of two main components: `AB-Movies-Backend` and `AB-Movies-frontend`, meticulously crafted to provide a seamless user experience.
+Welcome to the Movies Project, a comprehensive solution for browsing, managing, and tracking movies and TV shows. This project consists of two main components: `AB-Movies-Backend` and `AB-Movies-Frontend`, meticulously crafted to provide a seamless user experience.
 
 ## Movies-Backend Service
 
